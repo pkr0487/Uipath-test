@@ -395,7 +395,7 @@
                   <av:Size x:Key="ShapeSize">200,55</av:Size>
                 </scg:Dictionary>
               </sap:WorkflowViewStateService.ViewState>
-              <ui:SendMail Bcc="{x:Null}" Cc="{x:Null}" MailMessage="{x:Null}" ReplyTo="{x:Null}" SecurePassword="{x:Null}" TimeoutMS="{x:Null}" Body="[location+&quot;입니다. 확인부탁드릴게요&quot;]" DisplayName="Send SMTP Mail Message" Email="ppkkrr0487@naver.com" EnableSSL="True" From="ppkkrr0487@naver.com" sap:VirtualizedContainerService.HintSize="334,159" sap2010:WorkflowViewState.IdRef="SendMail_1" IsBodyHtml="False" Name="박진건" Password="[PW]" Port="587" SecureConnection="Auto" Server="smtp.naver.com" Subject="[location+&quot;입니다bhghgh.&quot;]" To="pkr0487@gmail.com">
+              <ui:SendMail Bcc="{x:Null}" Cc="{x:Null}" MailMessage="{x:Null}" ReplyTo="{x:Null}" SecurePassword="{x:Null}" TimeoutMS="{x:Null}" Body="[location+&quot;입니다. 확인부탁드릴게요&quot;]" DisplayName="Send SMTP Mail Message" Email="ppkkrr0487@naver.com" EnableSSL="True" From="ppkkrr0487@naver.com" sap:VirtualizedContainerService.HintSize="334,159" sap2010:WorkflowViewState.IdRef="SendMail_1" IsBodyHtml="False" Name="박진건" Password="[PW]" Port="587" SecureConnection="Auto" Server="smtp.naver.com" Subject="[location+&quot;입니다bhgbhnbhgh.&quot;]" To="pkr0487@gmail.com">
                 <ui:SendMail.Files>
                   <scg:List x:TypeArguments="InArgument(x:String)" Capacity="4">
                     <InArgument x:TypeArguments="x:String">["C:\Users\에코아이티\Desktop\"+location+".pdf"]</InArgument>
